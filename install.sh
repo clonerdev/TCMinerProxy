@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="6.4.0"
+VERSION="6.4.1"
 
 # Customer customization: change this block for white-label builds.
 APP_NAME="TCMinerProxy"
